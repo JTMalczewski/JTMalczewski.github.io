@@ -22,14 +22,14 @@ function App() {
             I'm passionate abaut data visualisation and modern aesthetics.
             I'm scout leader and hudge nerd. And I'm here to meet You!
           </p>
-          {/* <div className='container'>
+          <div className='container'>
             <div className='polaroid'>
               <img src={photo} alt="me" />
               <div className='container'>
                 <p>Jan Malczewski</p>
               </div>
             </div>
-          </div> */}
+          </div>
         </div>
       </div>
     </div>
