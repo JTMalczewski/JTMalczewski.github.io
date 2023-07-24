@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c2dd8da.css",
-    "main.js": "/static/js/main.5b98c486.js",
+    "main.css": "/static/css/main.d675fd94.css",
+    "main.js": "/static/js/main.77176173.js",
     "static/js/787.f0e953b0.chunk.js": "/static/js/787.f0e953b0.chunk.js",
     "static/media/me.jpg": "/static/media/me.4c8217bdf30a65863d63.jpg",
+    "static/media/treasure_open.png": "/static/media/treasure_open.20a17549a334752d1f88.png",
+    "static/media/paper.png": "/static/media/paper.c79923d4e2c9dca6d388.png",
+    "static/media/scissors-fliped.png": "/static/media/scissors-fliped.da43ac3adcde62656851.png",
+    "static/media/scissors.png": "/static/media/scissors.718ceab3fed5395c2aec.png",
+    "static/media/treasure.png": "/static/media/treasure.2d67c7f2270088d223b0.png",
+    "static/media/paper-fliped.png": "/static/media/paper-fliped.b5c6a71ccb0b7541b240.png",
+    "static/media/rock-fliped.png": "/static/media/rock-fliped.99bc87f642b548852d0d.png",
+    "static/media/rock.png": "/static/media/rock.117b8e347a47126c75bc.png",
     "static/media/copy.svg": "/static/media/copy.63fbdbfb11a0d7084e58a05de8192745.svg",
     "index.html": "/index.html",
-    "main.1c2dd8da.css.map": "/static/css/main.1c2dd8da.css.map",
-    "main.5b98c486.js.map": "/static/js/main.5b98c486.js.map",
+    "main.d675fd94.css.map": "/static/css/main.d675fd94.css.map",
+    "main.77176173.js.map": "/static/js/main.77176173.js.map",
     "787.f0e953b0.chunk.js.map": "/static/js/787.f0e953b0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c2dd8da.css",
-    "static/js/main.5b98c486.js"
+    "static/css/main.d675fd94.css",
+    "static/js/main.77176173.js"
   ]
 }
